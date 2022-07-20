@@ -1,4 +1,4 @@
-#GBT Observation Preparation Files
+# GBT Observation Preparation Files
 
 The two python scripts included thus far aid in creating ON-OFF observing scripts for the Green Bank Telescope.
 
