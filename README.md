@@ -2,9 +2,9 @@
 
 The two python scripts included thus far aid in creating ON-OFF observing scripts for the Green Bank Telescope.
 
-First running the "sdsssqueryforsbmaker.py" script will run an SQL query of the SDSS DR16 database and retrieve objects in those catalogs with photometric and spectroscopic information. This script requires an input file of the target list with at least the following columns in the header/first row: - ra 
-     - dec
-     - Name 
+First running the "sdsssqueryforsbmaker.py" script will run an SQL query of the SDSS DR16 database and retrieve objects in those catalogs with photometric and spectroscopic information. This script requires an input file of the target list with at least the following columns in the header/first row: * ra 
+     * dec
+     * Name 
 
 The output will be a csv file ('SDSSobjectsneartargets.csv') that will be read into the next script.
 
